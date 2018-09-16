@@ -1,6 +1,6 @@
 
 main {
-    width: 15%;
+    width: 11rem;
     margin: 6em auto;
     background-color: black;
     padding: 1em;
@@ -31,3 +31,11 @@ body {
 /* button {
     
 } */
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
